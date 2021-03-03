@@ -3,12 +3,12 @@ The aim of project is to build a higher accurate model and  identify the key fac
 
 ## Table of Content
   * [Overview](#Overview)
-  * [Problem Definition](#Problem Definition)
-  * [Dataset Description](#Dataset Description)
-  * [Exploratory Data Analysis](#Exploratory Data Analysis)
-  * [Data Preprocessing](#Data Preprocessing)
-  * [Model Building](#Model Building)
+  * [Problem_Definition](#Problem_Definition)
+  * [Dataset_Description](#Dataset_Description)
+  * [Exploratory_Data_Analysis](#Exploratory_Data_Analysis)
+  * [Data_Preprocessing](#Data_Preprocessing)
+  * [Model_Building](#Model_Building)
   * [Result](#Result)
-  * [Business Recommendation](#Business Recommendation)
+  * [Business_Recommendation](#Business_Recommendation)
   * [Credit](#Credit)
   
