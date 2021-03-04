@@ -21,7 +21,7 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
  
  So attrition is vital metric and need to build suitable model and identify what are the key factor which drive individual to leave the organization.
  
- ## Problem Definiton
+ ## Problem_Definition
  One talent acquisition agency is facing challenges about default rate where candidates not joining the company after accepting the offer.Acquiring new talent is always a challenging and time-consuming task, especially in the IT industry since the recruit has to handle numerous changes in an ever-changing landscape. In many instances, it is even difficult to find the exact matching candidates for the specified job role. In such a scenario, if an offer is denied, then the human resource (HR) department has to repeat the entire recruitment process resulting in additional effort from the top management.
  
  The talent acquisition agency  is trying to address this problem by identifying patterns in their existing candidate records using Machine learning algorithm
