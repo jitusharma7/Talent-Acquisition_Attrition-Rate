@@ -28,4 +28,22 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
  
  
  ## Dataset_Description
+ The dataset consists of the following attributes:
+
+* SLNO
+* Candidate Ref - unique candidate reference number
+* DOJ Extended
+* Duration to accept offer 
+* Notice period
+* Offered band 
+* Pecent hike expected in CTC
+* Percent difference CTC
+* Joining Bonus (1: yes, 0: No)
+* Candidate relocate actual (1: yes, 0: No)
+* Gender ( 1: Male, 0 : Female )
+* Candidate Source
+* Location
+* Age
+* Target Variable - Status ( 1 : Joined Organization , 0 : Not Joined Orgainization ) 
+
  
