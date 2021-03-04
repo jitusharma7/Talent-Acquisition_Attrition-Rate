@@ -47,3 +47,4 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 * Target Variable - Status ( 1 : Joined Organization , 0 : Not Joined Orgainization ) 
 
  
+## Exploratory_Data_Analysis
