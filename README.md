@@ -89,3 +89,17 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 
      <img src="/ModelComparison.PNG" width="400">
 
+## Result
+* XG Boost classifieroutperforms here among all model with 83.24% accuracy
+* Feature importance score from XGBoost classifier
+* Top 3 important features = 'Percent difference CTC', 'Duration to accept offer', 'Age'
+* Least 3 important features = 'Joining Bonus_Yes', 'LOB_EAS', 'LOB_Healthcare'
+
+## Business_Recommendation
+* Firm should focus on 3 important features 'Percent difference CTC', 'Duration to accept offer'& 'Age'
+* Firm should introduce new offering/schemes  based on these 3 features combination so that attrition rate can reduce.
+
+## Credit
+
+
+
