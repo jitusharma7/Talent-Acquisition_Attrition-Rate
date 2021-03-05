@@ -100,5 +100,5 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 * Firm should introduce new offering/schemes  based on these 3 features combination so that attrition rate can reduce.
 
 ## Credit
-[dare2xompete](https://https://dare2compete.com/) - This project has been done on this competitive platform.
+[dare2Compete](https://https://dare2compete.com/) - This project has been done on this competitive platform.
 
