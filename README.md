@@ -87,5 +87,5 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 * True negative values are crucialbecause it is important to knowwho will not join theorganization
 
 
-     <img src="/VIF.PNG" width="400">
+     <img src="/ModelComparison.PNG" width="400">
 
