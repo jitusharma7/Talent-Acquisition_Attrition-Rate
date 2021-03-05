@@ -75,7 +75,9 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 * Used drop_first feature of one hotencoding to avoidmulticollinearity
 * Checked for multicollinearity using correlation mapand variance Inflation factor,Two features 'Pecent hike expected in CTC' and'Percent hike offered in CTC' has been removed
 
-    <img src="/VIF.PNG" width="300">
+    <img src="/VIF.PNG" width="400">
+
+
 
 
 
