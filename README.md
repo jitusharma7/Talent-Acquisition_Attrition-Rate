@@ -78,7 +78,14 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
     <img src="/VIF.PNG" width="400">
 
 
+## Model_Building
+* XG Boost performs better thanother models
+* Hyperparameters tuning isdone by RandomizedSearchCV for xgboost
+* It has a higher accuracy of83.24%
+* True Negative is almost doublethan false negative
+* Rest of the models have verypoor performance in terms ofpredicting true negative values
+* True negative values are crucialbecause it is important to knowwho will not join theorganization
 
 
-
+     <img src="/VIF.PNG" width="400">
 
