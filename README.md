@@ -49,7 +49,7 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
  
 ## Exploratory_Data_Analysis
 * Among those who have not joined,only 11.89% are through employee referral program
-<img src="/Talent-Acquisition_Attrition-Rate/blob/main/source.PNG" width="300">
+  <img src="/Talent-Acquisition_Attrition-Rate/blob/main/source.PNG" width="300">
 
 
 
