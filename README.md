@@ -62,6 +62,7 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
         
 * Notice period and Duration to acceptoffer and slightly positive correlated.The possible reason could be , theymight be looking out for other jobs
 
-        <img src="/Multicolinearity.PNG" width="300">
+     
+     <img src="/Multicolinearity.PNG" width="300">
 
 
