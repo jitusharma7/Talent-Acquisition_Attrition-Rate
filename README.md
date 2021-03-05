@@ -54,13 +54,14 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
 
 * Among those who have not joined,only 16.74% are female. It meansfemales are more likely to join
 
-      <img src="/Gender.PNG" width="300">
+ <img src="/Gender.PNG" width="300">      
       
 * Average hike offered to people whohave not joined is lesser than for peoplewho have joined
 
     <img src="/salary.PNG" width="300">
         
 * Notice period and Duration to acceptoffer and slightly positive correlated.The possible reason could be , theymight be looking out for other jobs
+
         <img src="/Multicolinearity.PNG" width="300">
 
 
