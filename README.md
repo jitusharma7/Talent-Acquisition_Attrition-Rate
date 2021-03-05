@@ -66,3 +66,15 @@ The costs of employee attrition range from quantifiable numbers to hidden costs.
      <img src="/Multicolinearity.PNG" width="300">
 
 
+
+## Data_Preprocessing
+* Encoding the Status column as 1and 0
+* Dropping three features 'SLNO','Candidate Ref' and 'Location' dueto high cardinality
+* Applying Label Encoding to'offered band' ordinal feature.
+* Applying one hot encoding to restof the categorical features
+* Used drop_first feature of one hotencoding to avoidmulticollinearity
+* Checked for multicollinearity using correlation mapand variance Inflation factor,Two features 'Pecent hike expected in CTC' and'Percent hike offered in CTC' has been removed
+
+
+
+
